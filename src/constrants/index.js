@@ -79,11 +79,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Javascript","Vite","Redux","React Router","Tailwind CSS"],
   },
   {
-    title: "Blogging Platform",
+    title: "To-dos Application",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "Developed persistent to-dos application with CRUD operations to track list of tasks. Developed persistent to-dos application with CRUD operations to track list of tasks. Implemented to-dos crud operations by using JavaScript event listeners and updated UI dynamically by using JavaScript DOM operations.",
+    technologies: ["HTML", "CSS", "Java Script"],
   },
   {
     title: "Portfolio Website",

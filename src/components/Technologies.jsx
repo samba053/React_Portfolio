@@ -97,7 +97,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <FaBrain  className="text-7xl text-green-500" /><h1 class="text-center text-sm mt-2 font-bold">Machine Learning</h1>
+          <FaBrain  className="text-7xl text-green-500" /><h1 class="text-center text-sm mt-2 font-bold">ML</h1>
         </motion.div>
         <motion.div
           variants={iconVariants(4)}
@@ -113,7 +113,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <FaBeer className="text-7xl text-green-500" /><h1 class="text-center text-sm mt-2 font-bold">TailWind CSS</h1>
+          <FaBeer className="text-7xl text-green-500" /><h1 class="text-center text-sm mt-2 font-bold">TailWind</h1>
         </motion.div>
         <motion.div
           variants={iconVariants(4)}
